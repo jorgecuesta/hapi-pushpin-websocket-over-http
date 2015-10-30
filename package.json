@@ -1,6 +1,6 @@
 {
   "name": "hapi-pushpin-websocket-over-http",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A plugin to allow pushpin websocket over-http connection to work with hapijs",
   "main": "lib/index.js",
   "scripts": {
